@@ -43,7 +43,7 @@ write all the steps invloved
 
 **PROGRAM**
 
- Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
+ Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by:SUBITHRA R RegisterNumber:212224110050
  
 ```
 module df(D,Clock,reset,Q);
